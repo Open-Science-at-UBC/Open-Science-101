@@ -1,4 +1,4 @@
-﻿# OS 101 Unit 4: Open Science Benefits
+# OS 101 Unit 4: Open Science Benefits
 
 ## Better-Quality Science
    Accelerated innovation process, less expensive industrial products (e.g. OpenAPS), and shorter time to get to market - introduce dialogue -- OpenAPS
@@ -17,11 +17,15 @@ Source: [https://www.forbes.com/sites/tendayiviki/2016/12/06/why-diverse-teams-a
 > *Chanel Phillips tried hard to keep her nerves in check last year as she prepared to present her research at an international meeting on drowning prevention. Phillips, a doctoral student at the University of Otago in Dunedin, New Zealand, was in Vancouver, Canada, discussing water-safety strategies that she had been developing with indigenous Maori communities back home. It struck her that she and a colleague were perhaps the only indigenous presenters at the meeting.  She forged ahead, discussing unconventional work that blends Western and traditional Maori research methods to an audience of experts from around the world. Her presentation was warmly received. Researchers bombarded her with questions about working with indigenous groups — which often face rates of drowning that are higher than national averages. More important to Phillips, however, were the eager questions and comments coming from the Maori community members whom she worked with: she had live-streamed her talk so that they could listen and weigh in. “That was a big moment for me,” she says.*
 
 ## More Opportunities for Researchers
- -   For researchers: increased visibility for them and their research, more citations (introduce dialogue), compliance with funding requirements for open practices, chance to make connections, exchange, and collaborate. Greater opportunity for advancement. Authors may receive early media coverage based on their research.
+ -   For researchers: increased visibility for them and their research, more citations (introduce dialogue), compliance with funding requirements for open practices, chance to make connections, exchange, and collaborate. Greater opportunity for advancement. Authors may receive early media coverage based on their research. Particularly important for early career researchers.
+ Example: Sammie is now doing their honours thesis and is publishing notes on OSF - the research attracts the attention of a well-established professor working in the area Sammie is interested in -- this professor suggests taking Sammie on as a graduate student at his/her institution, and offers some helpful advice as well. -- create dialogue
     
 ## Technological Advancement
  -   Introduction of new technologies, platforms, and publication media.
-
+ - e.g. Geodisy project from Open Science in Practice
+[https://researchdata.library.ubc.ca/find/geodisy/](https://researchdata.library.ubc.ca/find/geodisy/)
+- make up practical application --> dialogue? 
+- contact Mark and Paul re: their lightning talk on Geodesy? There was a good example of a friend's research being helped by Geodesy. Can't find my notes on this (dang!!)
 
 ## Many Hands Make Light Work
  -   Through citizen science and marshalling the resources of the many (e.g. crowdfunding, species counts, distributed computing), large-scale research projects that would otherwise be impossible or impractical can be realized.
@@ -29,8 +33,37 @@ Example: XSEDE and the Tree of Life
 > An outline for a new tree of life, depicting the evolution of life on this planet that included more than 1,000 new types of bacteria and Archaea lurking in the Earth’s nooks and crannies, was made possible with the help of supercomputing resources available through XSEDE (eXtreme Science and Engineering Discovery Environment), along with a  phylogenetics “gateway” available on those resources.The new tree, published in April 2016 in the new journal Nature Microbiology and widely publicized throughout the general press, reinforces once again that the life we see around us – plants, animals, humans and other so-called eukaryotes – represents but a tiny percentage of the world’s biodiversity.“The tree of life is one of the most important organizing principles in biology,” said Jill Banfield, a University of
 California, Berkeley professor of earth and planetary science, policy, and management, and the study’s principal investigator. “The new depiction will be of use not only to biologists who study microbial ecology, but also biochemists searching for novel genes and researchers studying evolution and earth history.” Researchers used the CIPRES (CyberInfrastructure for Phylogenetic RESearch), a web-based portal or gateway that allows researchers to explore evolutionary relationships between species.“The CIPRES Science Gateway was critical to our work,” said Laura Hug, who computed the trees at the University of California, Berkeley and is now a biology faculty member at the University of Waterloo (Canada). “Previous attempts to infer the trees presented severe problems with run time, memory allocation and a lack of parallelized implementation of the RAxML (Randomized Axelerated Maximum Likelihood), a popular program for phylogenetic analysis of large datasets. No run had successfully finished prior to our introduction to CIPRES.
 Source: [https://www.xsede.org/documents/10157/169907/X16_highlights.pdf](https://www.xsede.org/documents/10157/169907/X16_highlights.pdf)
--   Increased public trust in science, resulting from improved science communication, citizen science, increases in reliability of science.
+
+## Trust and Input
+Increased public trust in science, resulting from improved science communication, citizen science, increases in reliability of science(?), responsiveness of science to people's needs 
+  Example: the "Patient Expert" model of health care
+[https://www.child-bright.ca/citizen-engagagement](https://www.child-bright.ca/citizen-engagagement)
+Stimulation for Perinatal Stroke Optimizing Recovery Trajectory (SPORT)
+> This past year, our SPORT team welcomed participants to summer camps
+> at all 3 of our study sites: Calgary, Edmonton, and Toronto. At these
+> camps, participants receive our noninvasive brain stimulation
+> intervention to achieve new motor function goals while also building
+> their confidence and making new friends. In total, 37 participants
+> have enrolled in our project, keeping us on track to achieve our goal
+> of more than 80 participants, making our project the largest such
+> rehabilitation trial ever done in children worldwide! We are also very
+> proud to share that all of the families enrolled in the summer camps
+> have attended subsequent testing and brain imaging appointments over
+> the 6 months following the camp. This is a wonderful testament to the
+> commitment of our families and team and is helping us build a rich
+> data set of clinical imaging and brain physiology outcomes that will
+> help us understand how young brains recover from early injury. We
+> enjoy consistently receiving positive feedback from parents and SPORT
+> campers, with many asking: “Can we come back next summer?”
+
+ - Quote from camp participant (base dialogue on this? perhaps a dialogue between parents of camp children?)
+
+>  Brandon was soooo excited today that he could open his palm and keep
+> his thumb out!!! That’s a big improvement for him. He talked my ear
+> off the whole way home. Says he wants to keep the cast on for week 2
+> and wants the camp to last a month. Thank you and the whole team for
+> all your efforts for these kids.” --Brandon’s parent
+
     
 ## For Later Modules?
    Improvement of statistical techniques (is this only in Psychology?): shift from reliance on null-hypothesis significance testing to estimation and other preferred techniques; reliance on estimation and other preferred methods. Dichotomy of NHST can impede scientific progress - focus on practical significance of effects and steady accumulation of knowledge
-
