@@ -1,7 +1,27 @@
 # OS 101 Unit 4: Open Science Benefits
 
+## Unit 4 Objectives
+
+### Introduction
+In the preceding modules, we've talked a lot about what Open Science is, and what some of the core values of Open Science are. Hopefully we're winning some of you over with an ethos of practice. But some of you might still be wondering what's in it for you, your discipline, your country, or the world in a more concrete way. And we have yet to really pin down, from a benefits perspective, why we should be practicing Open Science.
+
+### Objectives
+On completion of Unit 4, you should be able to articulate how Open Science offers the following benefits:
+ - **Better Quality Research** (bias, feedback, constructive criticism, QRPs) *Largely a recap of the previous modules?*
+ - **Better Policy** *A consequence of better research. Also a link back to trust here. And a partial recap of previous modules.*
+ - **Accelerated Innovation** (Pooling/collaboration) *I think I remember a good example of this from scientists pooling data and efforts for a vaccine recently. Does this ring a bell to you?*
+   - Amongst fellow researchers
+   - Because of pooled efforts with non-professional scientists (citizen science)
+ - **Diversified Innovation** (Leaps on knowledge)
+ - **Economic Efficiencies**
+    - decreased costs in production (Less expensive industrial products - OpenAPS)
+    - decreased costs in access (OA) *Largely a recap of the previous modules?*
+    - fewer unnecessary repetitions
+    - decisions based on sound science not new shiny results that need to then be revisited.
+ - **Increased Researcher Exposure** (more people will see and use your inputs and outputs)
+
 ## Better-Quality Science
-   Accelerated innovation process, less expensive industrial products (e.g. OpenAPS), and shorter time to get to market - introduce dialogue -- OpenAPS
+Accelerated innovation process, less expensive industrial products (e.g. OpenAPS), and shorter time to get to market - introduce dialogue -- OpenAPS
  - Less bias, more feedback and criticism at early stages, accountability to study design → Better quality research. Open science is good science - Fewer QRPs: decrease in false positives and HARKing, increased statistical power. More robust findings and faster accumulation of knowledge. End to “natural selection of bad science.”
 -   Increased transparency → reproducibility. Results are easier for others to understand and repeat. Re-use of data, code, and analytical methods (remaking the wheel) increases speed and efficiency; publication, awareness, and avoidance of unproductive strategies, techniques. Knowledge grows faster. Knowledge of unsuccessful techniques → avoid repeating errors. Example: Sammie’s research (example from earlier unit)
 -   Reproducibility is also valued outside of academia -- e.g. in industrial contexts like software dev, industrial biochemical and pharmaceutical research - therefore, early career applicants conversant in reproducible practices would stand out
@@ -19,12 +39,13 @@ Source: [https://www.forbes.com/sites/tendayiviki/2016/12/06/why-diverse-teams-a
 ## More Opportunities for Researchers
  -   For researchers: increased visibility for them and their research, more citations (introduce dialogue), compliance with funding requirements for open practices, chance to make connections, exchange, and collaborate. Greater opportunity for advancement. Authors may receive early media coverage based on their research. Particularly important for early career researchers.
  Example: Sammie is now doing their honours thesis and is publishing notes on OSF - the research attracts the attention of a well-established professor working in the area Sammie is interested in -- this professor suggests taking Sammie on as a graduate student at his/her institution, and offers some helpful advice as well. -- create dialogue
-    
+
 ## Technological Advancement
+**This helps OS. Is it a benefit of OS?**
  -   Introduction of new technologies, platforms, and publication media.
  - e.g. Geodisy project from Open Science in Practice
 [https://researchdata.library.ubc.ca/find/geodisy/](https://researchdata.library.ubc.ca/find/geodisy/)
-- make up practical application --> dialogue? 
+- make up practical application --> dialogue?
 - contact Mark and Paul re: their lightning talk on Geodesy? There was a good example of a friend's research being helped by Geodesy. Can't find my notes on this (dang!!)
 
 ## Many Hands Make Light Work
@@ -35,7 +56,7 @@ California, Berkeley professor of earth and planetary science, policy, and manag
 Source: [https://www.xsede.org/documents/10157/169907/X16_highlights.pdf](https://www.xsede.org/documents/10157/169907/X16_highlights.pdf)
 
 ## Trust and Input
-Increased public trust in science, resulting from improved science communication, citizen science, increases in reliability of science(?), responsiveness of science to people's needs 
+Increased public trust in science, resulting from improved science communication, citizen science, increases in reliability of science(?), responsiveness of science to people's needs
   Example: the "Patient Expert" model of health care
 [https://www.child-bright.ca/citizen-engagagement](https://www.child-bright.ca/citizen-engagagement)
 Stimulation for Perinatal Stroke Optimizing Recovery Trajectory (SPORT)
@@ -64,6 +85,6 @@ Stimulation for Perinatal Stroke Optimizing Recovery Trajectory (SPORT)
 > and wants the camp to last a month. Thank you and the whole team for
 > all your efforts for these kids.” --Brandon’s parent
 
-    
+
 ## For Later Modules?
    Improvement of statistical techniques (is this only in Psychology?): shift from reliance on null-hypothesis significance testing to estimation and other preferred techniques; reliance on estimation and other preferred methods. Dichotomy of NHST can impede scientific progress - focus on practical significance of effects and steady accumulation of knowledge
