@@ -1,4 +1,5 @@
-# OS 101 Unit 4: Open Science Benefits
+﻿
+ OS 101 Unit 4: Open Science Benefits
 
 ## Unit 4 Objectives
 
@@ -29,12 +30,18 @@ On completion of Unit 4, you should be able to articulate how Open Science offer
   - benefits to individual researchers (exposure, media, collaboration, mentorship)
   - improvement in communication of science --> improved trust, public awareness
 
-## Economic Efficiencies
-Accelerated innovation process, less expensive industrial products (e.g. OpenAPS), and shorter time to get to market - introduce dialogue -- OpenAPS
- - Less bias, more feedback and criticism at early stages, accountability to study design → Better quality research. Open science is good science - Fewer QRPs: decrease in false positives and HARKing, increased statistical power. More robust findings and faster accumulation of knowledge. End to “natural selection of bad science.”
--   Increased transparency → reproducibility. Results are easier for others to understand and repeat. Re-use of data, code, and analytical methods (remaking the wheel) increases speed and efficiency; publication, awareness, and avoidance of unproductive strategies, techniques. Knowledge grows faster. Knowledge of unsuccessful techniques → avoid repeating errors. Example: Sammie’s research (example from earlier unit)
--   Reproducibility is also valued outside of academia -- e.g. in industrial contexts like software dev, industrial biochemical and pharmaceutical research - therefore, early career applicants conversant in reproducible practices would stand out
--   Increase in collaboration, particularly between/among disciplines, countries, and organizations with different levels of resources greater efficiency and effectiveness solving complex and/or global problems
+## Better Science and Economic Efficiencies
+
+Open Science acts like a super-fertilizer to make science grow faster and stronger. How does it do this?
+ - reproducible, robust research can be understand and replicated more easily, solidifying the foundation of scientific knowledge
+ - data, methods, analytical processes, and code can be re-used, accelerating the course of research
+ - awareness of techniques and strategies that have led to dead ends helps scientists to avoid repeating each other's mistakes
+
+On a practical level, research in the lab leads to industrial applications, whether it's a new vaccine, a drone that uses microwave remote sensing technology to map root zone soil moisture, or a solar-powered train. Accelerated innovation means less expensive industrial products that take less time to get to market. 
+
+Example: OpenAPS
+
+Example: Sammie’s research (example from earlier unit)
 
 ## Accelerated Innovation
  -   Open access → greater diversity in research, leading to leaps in scientific knowledge, giving voice to under-represented interests, etc.
@@ -45,7 +52,7 @@ Source: [https://www.forbes.com/sites/tendayiviki/2016/12/06/why-diverse-teams-a
 
 > *Chanel Phillips tried hard to keep her nerves in check last year as she prepared to present her research at an international meeting on drowning prevention. Phillips, a doctoral student at the University of Otago in Dunedin, New Zealand, was in Vancouver, Canada, discussing water-safety strategies that she had been developing with indigenous Maori communities back home. It struck her that she and a colleague were perhaps the only indigenous presenters at the meeting.  She forged ahead, discussing unconventional work that blends Western and traditional Maori research methods to an audience of experts from around the world. Her presentation was warmly received. Researchers bombarded her with questions about working with indigenous groups — which often face rates of drowning that are higher than national averages. More important to Phillips, however, were the eager questions and comments coming from the Maori community members whom she worked with: she had live-streamed her talk so that they could listen and weigh in. “That was a big moment for me,” she says.*
 
--   Through citizen science and marshalling the resources of the many (e.g. crowdfunding, species counts, distributed computing), large-scale research projects that would otherwise be impossible or impractical can be realized.
+-   Through citizen science and marshaling the resources of the many (e.g. crowdfunding, species counts, distributed computing), large-scale research projects that would otherwise be impossible or impractical can be realized.
 Example: XSEDE and the Tree of Life
 > An outline for a new tree of life, depicting the evolution of life on this planet that included more than 1,000 new types of bacteria and Archaea lurking in the Earth’s nooks and crannies, was made possible with the help of supercomputing resources available through XSEDE (eXtreme Science and Engineering Discovery Environment), along with a  phylogenetics “gateway” available on those resources.The new tree, published in April 2016 in the new journal Nature Microbiology and widely publicized throughout the general press, reinforces once again that the life we see around us – plants, animals, humans and other so-called eukaryotes – represents but a tiny percentage of the world’s biodiversity.“The tree of life is one of the most important organizing principles in biology,” said Jill Banfield, a University of
 California, Berkeley professor of earth and planetary science, policy, and management, and the study’s principal investigator. “The new depiction will be of use not only to biologists who study microbial ecology, but also biochemists searching for novel genes and researchers studying evolution and earth history.” Researchers used the CIPRES (CyberInfrastructure for Phylogenetic RESearch), a web-based portal or gateway that allows researchers to explore evolutionary relationships between species.“The CIPRES Science Gateway was critical to our work,” said Laura Hug, who computed the trees at the University of California, Berkeley and is now a biology faculty member at the University of Waterloo (Canada). “Previous attempts to infer the trees presented severe problems with run time, memory allocation and a lack of parallelized implementation of the RAxML (Randomized Axelerated Maximum Likelihood), a popular program for phylogenetic analysis of large datasets. No run had successfully finished prior to our introduction to CIPRES.
@@ -54,6 +61,7 @@ Source: [https://www.xsede.org/documents/10157/169907/X16_highlights.pdf](https:
 ## Increased Visibility for Research and Researchers
  -   For researchers: increased visibility for them and their research, more citations (introduce dialogue), compliance with funding requirements for open practices, chance to make connections, exchange, and collaborate. Greater opportunity for advancement. Authors may receive early media coverage based on their research. Particularly important for early career researchers.
  Example: Sammie is now doing their honours thesis and is publishing notes on OSF - the research attracts the attention of a well-established professor working in the area Sammie is interested in -- this professor suggests taking Sammie on as a graduate student at his/her institution, and offers some helpful advice as well. -- create dialogue
+-   Reproducibility is also valued outside of academia -- e.g. in industrial contexts like software dev, industrial biochemical and pharmaceutical research - therefore, early career applicants conversant in reproducible practices would stand out
 
 ## Improved Responsiveness of Policy and Research to Public Needs
 Increased public trust in science, resulting from improved science communication, citizen science, increases in reliability of science(?), responsiveness of science to people's needs
