@@ -40,8 +40,17 @@ Open Science acts like a super-fertilizer to make science grow faster and strong
 On a practical level, research in the lab leads to industrial applications, whether it's a new vaccine, a drone that uses microwave remote sensing technology to map root zone soil moisture, or a solar-powered train. Accelerated innovation means less expensive industrial products that take less time to get to market. 
 
 Example: OpenAPS
+John's talking to his cousin in the States on WhatsApp. 
+John: So, Bubba, how's it goin' with the diabetes?
+Bubba: Pffffff, my control hasn't been so hot lately. Can't seem to get it better no matter what I do.
+John: Don't they have an artificial pancreas now?
+Bubba: Yeah, if you have 15 grand to blow on one. 
 
-Example: Sammie’s research (example from earlier unit)
+Two days later ...
+John: Hey Bubba, just read something interesting -- someone down there invented an artificial pancreas type system that costs only $200! Lots of people are using it. It's called OpenAPS.
+Bubba: You're pulling my leg, man. Must've forgot a couple of zeroes on that price. How could they afford to make it available for $200?
+John: It's kinda DIY -- take a look here. You have to do some work to get it going I guess. [Sends url: https://openaps.org/.]
+Bubba: Holy guacamole! I'll look into it. Thanks John.
 
 ## Accelerated Innovation
  -   Open access → greater diversity in research, leading to leaps in scientific knowledge, giving voice to under-represented interests, etc.
