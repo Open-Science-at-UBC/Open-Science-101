@@ -114,11 +114,11 @@ Three months after the conference, Sammie got the following email:
 >
 > Dr. Bob Ross
 
-## Unit 4 Quiz
-
 As you might imagine, Sammie was pretty excited.
 
-Q. How does Open Science create economic efficiencies? Select all that apply.
+## Unit 4 Quiz
+
+**Q. How does Open Science create economic efficiencies? Select all that apply.**
 
 
 ☐ By solidifying the base of scientific knowledge
@@ -130,7 +130,7 @@ Q. How does Open Science create economic efficiencies? Select all that apply.
 ☐ By facilitating re-use of code, data, and methods
 
 
-Q. How did the founders of the CHILD-BRIGHT network decide on which projects to implement? Choose one.
+**Q. How did the founders of the CHILD-BRIGHT network decide on which projects to implement? Choose one.**
 
 
 ☐ They looked at other projects for children with brain-based developmental challenges and decided to do something similar.
