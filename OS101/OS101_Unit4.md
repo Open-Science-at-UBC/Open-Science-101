@@ -4,7 +4,7 @@ OS 101 Unit 4: Open Science Benefits
 ## Unit 4 Objectives
 
 ### Introduction
-In the preceding modules, we've talked a lot about what Open Science is, and what some of the core values of Open Science are. Hopefully we're winning some of you over with an ethos of practice. But some of you might still be wondering what's in it for you, your discipline, your country, or the world in a more concrete way. And we have yet to really pin down, from a benefits perspective, why we should be practicing Open Science.
+In the preceding modules, we've talked a lot about what Open Science is, and what some of the core values of Open Science are. Hopefully we're winning some of you over with an ethos of practice. But some of you might still be wondering what's in it for you, your discipline, your country, or the world in a more concrete way. And we have yet to really pin down, from a benefits perspective, why we should be practising Open Science.
 
 ### Objectives
 On completion of Unit 4, you should be able to articulate how Open Science offers the following benefits:
@@ -23,45 +23,35 @@ Open Science acts like a super-fertilizer to make science grow faster and strong
  - **Accelerates the research process** -- data, methods, analytical techniques, and code can be re-used;
  - **Limits unnecessary research** -- publication of methods that have led to dead ends in research helps others in the research community to avoid making the same mistakes.
 
-### From patents to Open Science
-
-*I don't think this is worded very well, but I think provides a unique historical context. Maybe not. Just a suggestion.*
+### From Patents to Open Science
 
 But let's take this back a bit and ask, why is science closed in the first place?
 
-On a practical level, research in the lab leads to industrial applications, whether it's a new vaccine, a drone that uses microwave remote sensing technology to map root zone soil moisture, or a solar-powered train. In order to protect the resources invested in these operations, these applications are frequently patented.
+On a practical level, research in the lab leads to industrial applications, whether it's a new vaccine, a drone that uses microwave remote sensing technology to map root zone soil moisture, or a solar-powered train. In many cases, creators of such applications (or the organizations that employ them) will apply for a patent,  a legal document that ensures they have the sole right to manufacture and sell the product. 
 
-So, in many ways, patents, first issued in the 15th century, initiated closed science. With patents, inventions are protected, giving exclusive rights of production to the inventor. And with patents, only the inventor can improve the product. This limits the ability of society at large to explore and expand on the techniques and technologies applied.
+So, in many ways, patents, first issued in the 15th century, closed off science. Under patent law, only the inventor can improve the product. This limits the ability of society at large to explore and expand on the techniques and technologies applied.
 
-However, when we open up our practices, we allow for accelerated innovation, which means less expensive industrial products that take less time to get to market.
+In contrast, when we open up our practices to share intellectual property, we allow for accelerated innovation, which means less expensive industrial products that take less time to get to market.
 
-### Example: Open APS
+### Example: Model My Watershed
 
-John's talking to his cousin Bubba in the United States on WhatsApp. Bubba, like many individuals in North America, has diabetes. Diabetes can very expensive to manage.
+John's talking to his cousin Wendy on WhatsApp. Wendy is a high school Biology teacher in the Florida Keys, South of the Florida panhandle, where water conservation is a major issue.
 
-John: So, Bubba, how's it goin' with the diabetes?  
+John: So, how are things going with your Biology classes?
 
-Bubba: Pffffff, my control **what does control mean?** hasn't been so hot lately.   Can't seem to get it better no matter what I do.  
+Wendy: Great! I'm getting the students involved in investigating water conservation scenarios. They're using a professional web app that lets them do analysis with real data from online repositories and model what would happen under different scenarios the local government is proposing. It's pretty topical now, since a forested area near our school might be sold to developers!
 
-John: Don't they have an artificial pancreas now **can you add just a bit more context?**?
+John: Professional software? How can your school afford that?
 
-Bubba: Yeah, if you have 15 grand to blow on one.
+Wendy: The app is totally free! It's called Model My Watershed. It was built by a collaboration that included a few different universities, a water testing company, and this nonprofit called the [Stroud Water Research Center](https://stroudcenter.org/). 
 
-John: Whoa, I didn't realize they were that expensive!
+John: Wow. So how are the students liking the project? 
 
-Two days later ...  
+Wendy: They've learned a lot, and some have even written to our state rep. They feel like they can make an impact. We're keeping track of articles about water pollution and conservation in the class.  
 
-John: Hey Bubba, I just read something interesting -- someone down there is saying they've invented an artificial pancreas type system that costs only $200! Lots of people are using it. It's called OpenAPS.  
-
-Bubba: You're pulling my leg. Must've forgot a couple of zeroes on that price. How could they afford to make it available for $200?  
-
-John: They've moved the technology and code into the open, to allow more people to collaboratively work on the project. They're also bypassing traditional commercialization. Sure, it's kinda DIY at the moment, but it sounds like there's some real potential there -- they have a web page and all, [OpenAPS.org](https://openaps.org/).  
-
-Bubba: Holy guacamole! I'll look into it. Thanks John.
+If you're interested in this free app, take a look at the [Model My Watershed](https://modelmywatershed.org/) site.
 
 ## Large-Scale Projects
-
-*I think emphasizing the data component here makes it more distinct from the previous section which is about pooling resources and shared knowledge.*
 
 Through the pooling of resources and, in particular, data, a project that would remain a distant dream if dependent on a single actor can become a reality.
 
@@ -70,8 +60,6 @@ Such collaborations can involve different research organizations, researchers fr
 One interesting example is Gavi, The Vaccine Alliance, which now provides for the vaccination of half the world's children, pooling the data and resources of many countries and facilitating cooperation between governmental and non-governmental organizations in poorer parts of the world.
 
 ### Example: Yusuf Becomes a Vaccine Advocate
-
-*suggesting moving this content around a bit*
 
 Yusuf Ibrahim is a devout Muslim in Nigeria who was originally told that vaccines were part of a Western conspiracy to control the Muslim population by delivering medicine that made men impotent.
 
@@ -101,19 +89,16 @@ CHILD-BRIGHT holds summer camps for children at research centres in Calgary, Edm
 
 Open science helps researchers -- especially those in the beginning stages of their careers -- in many ways:
 
-  - **Increased visibility** for them and their research *detail?*
-  - **More citations** (introduce dialogue *You're going to put in dialogue?*); for example, authors who publish openly may receive early coverage in the media
+  - **Increased visibility** for them and their research; for example, authors who publish openly may receive early coverage in the media
   - **Enhanced networks** chances to make connections, exchange, and collaborate. Greater opportunity for advancement.
-  - **Greater employability** Reproducibility is also valued in contexts outside of the academic world, such as in industry and government: early-career applicants stand out if they have experience in reproducible practices
-  - **Unique funding and publishing opportunities** compliance with the requirements that many funders and journals now have for open practices in studies
+  - **Greater employability** both at universities and outside of the academic world, such as in industry and government: early-career applicants stand out if they have experience in reproducible practices
+  - **Unique funding and publishing opportunities**, as many funders and journals now require that researchers make their data public and participate in other Open practices
 
 ### Example: Exposure of Honours Work
 
-*Didn't convert to dialogue, but did shift the narrative a bit.*
-
 Sammie is doing their honours thesis in biology at UBCO. They're using a popular online tool for sharing research inputs and outputs, [OSF](https://osf.io), to help manage their project.
 
-Sammie recently presented about their work at a local conference. Sammie's poster focused on high level outcomes, but provided a link to the full working project on OSF for those who were more interested in the nitty gritty of Sammie's work.
+Sammie recently presented about their work at a local conference. Their poster focused on high level outcomes, but provided a link to the full working project on OSF for those who were more interested in the nitty gritty of the work.
 
 In the following months, Sammie started to notice that more and more people were visiting their OSF page. Some people were even downloading portions of Sammie's work.
 
@@ -123,16 +108,10 @@ Three months after the conference, Sammie got the following email:
 
 > Dear Sammie,
 >
-> I was very pleased to come across your poster session at a conference several months back. A colleague at your institution reached out to me more recently about your work and I have since had a look at what you're doing on your OSF page. If you're looking for a graduate research opportunity, I'd be happy to talk, as the work that you are doing would align very nicely with my research lab at *The of Joy Science Institute* in Florida.
+> I was very pleased to come across your poster session at a conference several months back. A colleague at your institution reached out to me more recently about your work and I have since had a look at what you're doing on your OSF page. If you're looking for a graduate research opportunity, I'd be happy to talk, as the work that you are doing would align very nicely with my research lab at *The Joy of Science Institute* in Florida.
 >
 > Sincerely,
 >
 > Dr. Bob Ross
 
 As you might imagine, Sammie was pretty excited.
-
-## For Later Modules?
-   Improvement of statistical techniques (is this only in Psychology?): shift from reliance on null-hypothesis significance testing to estimation and other preferred techniques; reliance on estimation and other preferred methods. Dichotomy of NHST can impede scientific progress - focus on practical significance of effects and steady accumulation of knowledge
-
-### Technological Advancement
-   **This helps OS. Is it a benefit of OS?** - Hmmm, Mathew, you are probably right. I do think that open science has probably driven at least some technological developments -- e.g. platforms like OSF, open source applications like Dataverse, etc. But perhaps that's not a societal benefit in the way we're conceiving it, or not one that students could relate to.
