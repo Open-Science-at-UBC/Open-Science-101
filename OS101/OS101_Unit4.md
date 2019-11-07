@@ -27,7 +27,7 @@ Open Science acts like a super-fertilizer to make science grow faster and strong
 
 But let's take this back a bit and ask, why is science closed in the first place?
 
-On a practical level, research in the lab leads to industrial applications, whether it's a new vaccine, a drone that uses microwave remote sensing technology to map root zone soil moisture, or a solar-powered train. In many cases, creators of such applications (or the organizations that employ them) will apply for a patent,  a legal document that ensures they have the sole right to manufacture and sell the product. 
+On a practical level, research in the lab leads to industrial applications, whether it's a new vaccine, a drone that uses microwave remote sensing technology to map root zone soil moisture, or a solar-powered train. In many cases, creators of such applications (or the organizations that employ them) will apply for a patent,  a legal document that ensures they have the sole right to manufacture and sell the product.
 
 So, in many ways, patents, first issued in the 15th century, closed off science. Under patent law, only the inventor can improve the product. This limits the ability of society at large to explore and expand on the techniques and technologies applied.
 
@@ -43,13 +43,13 @@ Wendy: Great! I'm getting the students involved in investigating water conservat
 
 John: Professional software? How can your school afford that?
 
-Wendy: The app is totally free! It's called Model My Watershed. It was built by a collaboration that included a few different universities, a water testing company, and this nonprofit called the [Stroud Water Research Center](https://stroudcenter.org/). 
+Wendy: The app is totally free! It's called Model My Watershed. It was built by a collaboration that included a few different universities, a water testing company, and this nonprofit called the [Stroud Water Research Center](https://stroudcenter.org/).
 
-John: Wow. So how are the students liking the project? 
+John: Wow. So how are the students liking the project?
 
 Wendy: They've learned a lot, and some have even written to our state rep. They feel like they can make an impact. We're keeping track of articles about water pollution and conservation in the class.  
 
-If you're interested in this free app, take a look at the [Model My Watershed](https://modelmywatershed.org/) site.
+*If you're interested in this free app, take a look at the [Model My Watershed](https://modelmywatershed.org/) site.*
 
 ## Large-Scale Projects
 
@@ -67,7 +67,7 @@ The elders asked, "Why would they give us this medication free?" Given their his
 
 Now he's a strong advocate for vaccines among the people of his town.
 
-[You can read more about Yusuf's story and the Gavi project at the Gavi website](https://www.gavi.org/delivering/nigeria/#InWords).
+*You can read more about Yusuf's story and the [Gavi project at the Gavi website](https://www.gavi.org/delivering/nigeria/#InWords).*
 
 ## Improved Responsiveness of Policy and Research to Public Needs
 
@@ -89,10 +89,10 @@ CHILD-BRIGHT holds summer camps for children at research centres in Calgary, Edm
 
 Open science helps researchers -- especially those in the beginning stages of their careers -- in many ways:
 
-  - **Increased visibility** for them and their research; for example, authors who publish openly may receive early coverage in the media
-  - **Enhanced networks** chances to make connections, exchange, and collaborate. Greater opportunity for advancement.
-  - **Greater employability** both at universities and outside of the academic world, such as in industry and government: early-career applicants stand out if they have experience in reproducible practices
-  - **Unique funding and publishing opportunities**, as many funders and journals now require that researchers make their data public and participate in other Open practices
+  - **Increased visibility** -- for example, authors who publish openly may receive early coverage in the media;
+  - **Enhanced networks** -- chances to make connections, exchange, and collaborate creating greater opportunity for advancement;
+  - **Greater employability** -- both at universities and outside of the academic world, such as in industry and government: early-career applicants stand out if they have experience in reproducible practices;
+  - **Unique funding and publishing opportunities** -- many funders and journals now require that researchers make their data public and participate in other Open practices.
 
 ### Example: Exposure of Honours Work
 
