@@ -30,7 +30,7 @@ Although scientific progress rests on the repetition and reproduction of results
 
 ### A Bit of History
 
-Prior to the 20th century, most research data and findings could accompany their research findings. This is in part because the scale of data collection and computation was significantly smaller than it is now. It is also in part because the nature of science communication was conducted a little differently, and large treaties, instead of short journal articles, were often written exploring a question.
+Prior to the 20th century, most research data and findings could accompany their research findings. This is in part because the scale of data collection and computation was significantly smaller than it is now. It is also in part because science communication took the form of lengthy treatises exploring a question, rather than the short journal articles we see today.
 
 ### A Crisis
 
