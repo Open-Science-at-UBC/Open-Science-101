@@ -12,13 +12,13 @@ If Open Science brings so many benefits to researchers, science, and society, yo
 We have both the technological and the imperative to open science in order to better address problems facing our society and our world, so what's keeping us from realizing our ideal Open Science research culture? This unit looks at the difficulties in implementing Open Science and strategies that will help overcome them.
 
 ### Objectives
-On completion of Unit 5, you should be able to list limits and challenges to Open Science and give an example of a strategy for dealing with each:
+On completion of Unit 5, you should be able to list and describe the following five categories of limits and challenges to Open Science and give an example of a strategy for dealing with each:
 
 - **lack of incentives for adopting OS practices**
-- **publishing industry practices**
 - **time and money required up front to become Open**
-- **intellectual property rights and privacy issues**
-- **lack of knowledge**
+- **intellectual property rights**
+- **privacy and intellectual property rights**
+- **lack of knowledge*
 
 ## Incentives and Rewards
 ### The Current Reward System
