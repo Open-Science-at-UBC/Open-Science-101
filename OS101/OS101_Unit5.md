@@ -52,6 +52,22 @@ Under Registered reports, when a study design passes the Stage 1 review by scien
 
 ### Example: Reforms at Psychological Science (Eric)
 
+## Lack of Knowledge
+Most researchers today haven't been trained in Open Science practices. They may agree philosophically with opening science, but may not know where to start in terms of modifying their practices. Those in later stages of their career may think that change is too difficult, even if their graduate students try to engage them in talking about Open Science. 
+
+### Advocating for Open
+To close this gap in education, Open Science advocates seek to make information about Open Science benefits, tools, and practices available to researchers at all levels. Initiatives include
+
+- free tools like the Open Science Framework, a project management and networking site that allows researchers to display and interact with all products of their research
+- OS education programs (including this one) at universities aimed at undergraduates, graduates, and early career researchers
+- mentoring programs that team a researcher new to OS with one experienced with OS methods
+- courses in specific aspects of Open Science, such as those offered by the FOSTER portal (a project of the European Union)
+- https://www.fosteropenscience.eu/courses
+- change will "filter up" as new scientists bring Open Science Practices into the workplace
+
+### Example
+- example: undergraduate OS program, workshops/seminars, COS ambassadors program, tutorials/guides, books, etc. 
+- lack of knowledge about research study design, QRPs --> opportunity to inform 
 
 ## Initial Investment of Time and Money
 - cost of maintaining data in an open repository - time needed to learn about OS practices - may need to learn new technologies - much more time required in planning phases of study (but reduces time required later) 
@@ -60,8 +76,4 @@ Under Registered reports, when a study design passes the Stage 1 review by scien
 - fear of being scooped - free market incentive to create in conflict with opening science - public/private partnership issues - more important in some areas of study than in others - e.g. pharmaceutical industry 
 - confidentiality of data (e.g. patient names, demographic information) - solution: anonymization of data - ensure security requirements for privacy of data are met (not all obstacles can be overcome) 
 - 
-## Lack of Knowledge
-Researchers at any level may feel reluctant to switch to Open Science practices. 
-on the part of researchers and students - resistance to change, in some cases - solutions: education (starting at undergrad level), advocacy/publicity, mentoring programs, networking, specification of best practices - best practices will vary according to the area of study - badges
-- example: undergraduate OS program, workshops/seminars, COS ambassadors program, tutorials/guides, books, etc. 
-- lack of knowledge about research study design, QRPs --> opportunity to inform 
+
