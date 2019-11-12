@@ -74,6 +74,6 @@ To close this gap in education, Open Science advocates seek to make information 
 
 ## Privacy and Intellectual Property Rights 
 - fear of being scooped - free market incentive to create in conflict with opening science - public/private partnership issues - more important in some areas of study than in others - e.g. pharmaceutical industry 
-- confidentiality of data (e.g. patient names, demographic information) - solution: anonymization of data - ensure security requirements for privacy of data are met (not all obstacles can be overcome) 
-- 
+- a balance is needed between creating incentives for individuals or groups to exploit new scientific knowledge for financial gain and societal benefits through the products and services that are developed and the macroeconomic benefits that accrue when knowledge is broadly available and can be exploited creatively in a wide variety of ways. 
+- confidentiality of data (e.g. patient names, demographic information) - solution: anonymization of data - ensure security requirements for privacy of data are met (not all obstacles can be overcome)- 
 
