@@ -15,12 +15,12 @@ We have both the technological and the imperative to open science in order to be
 On completion of Unit 5, you should be able to list limits and challenges to Open Science and give an example of a strategy for dealing with each:
 
 - **lack of incentives for adopting OS practices**
+- **publishing industry practices**
 - **time and money required up front to become Open**
-- **intellectual property rights**
-- **privacy and security issues**
+- **intellectual property rights and privacy issues**
 - **lack of knowledge**
 
-## Incentives and Rewards for Research
+## Incentives and Rewards
 ### The Current Reward System
 One of the biggest obstacles in the path to Open Science comes from the difficulty of achieving a change in the way scientists are rewarded for their work, from publication in high-status journals to progression in their careers. What are the criteria used to compensate and promote science? As we saw in Unit 2, flashy science may trump good science: journals want to publish exciting research, and the career progress of scientist is gauged by the number of times their research is quoted by others, the prestige of the journals they publish in, and how much funding they can get. Most of the organizations that employ scientists, such as universities, large research institutes, and governments, are huge beasts with complicated organizational structures, traditions, rules, and procedures; change comes to them at a glacial pace. 
 
@@ -50,11 +50,9 @@ achievement of tenure and promotion goals for professors/researchers,
 ## Initial Investment of Time and Money
 - cost of maintaining data in an open repository - time needed to learn about OS practices - may need to learn new technologies - much more time required in planning phases of study (but reduces time required later) 
 
-## Intellectual Property Rights
+## Privacy and Intellectual Property Rights 
 - fear of being scooped - free market incentive to create in conflict with opening science - public/private partnership issues - more important in some areas of study than in others - e.g. pharmaceutical industry 
-
-## Privacy and Security Issues
-- confidentiality of data (e.g. patient names, demographic information), national security issues - solution: anonymization of data - compliance with security requirements (not all obstacles can be overcome) 
+- confidentiality of data (e.g. patient names, demographic information) - solution: anonymization of data - ensure security requirements for privacy of data are met (not all obstacles can be overcome) 
 - 
 ## Lack of Knowledge
 Researchers at any level may feel reluctant to switch to Open Science practices. 
