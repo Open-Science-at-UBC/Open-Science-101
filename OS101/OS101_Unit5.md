@@ -1,3 +1,4 @@
+
 ﻿
 OS 101 Unit 5: Challenges and Constraints
 
@@ -33,21 +34,24 @@ Another area of change is a move toward basing the hiring, tenure, and promotion
 - the level of engagement with the stakeholders in designing and conducting studies
 - the potential impact of the research on society. 
 
-Progress in the area of revising assessment of scientists will likely prove slow, but scientists and leaders in the academic world are beginning to talk about reforming the process for assessing scientists. For example, a workshop in Washington, DC, in 2017 produced an a document identifiying six key principles to guide reforms to incentives and rewards, as well as next steps to take to transform research and policy.
+Progress in the area of revising assessment of scientists will likely prove slow, but scientists and leaders in the academic world are beginning to talk about reforming the process for assessing scientists. For example, a workshop in Washington, DC, in 2017 produced an a document identifying six key principles to guide reforms to incentives and rewards, as well as next steps to take to transform research and policy.
 
 ### Example: Undergraduate Open Science Research Awards
 - idea of undergraduate research awards contingent on OS practices? could propose a fictitious scenario
 
 ## Publishing Industry Practices
-Publishers of journals can make many improvements to their practices to ensure that they're publishing quality science and not merely flashy science and that their readers can access all important outputs of the research process transparently. Many journals -- over 200 in different subject areas -- have adopted a new pre-publication process called Registered Reports. 
+Publishers of journals can make many improvements to their practices to ensure that they're publishing quality science and not merely flashy science and that their readers can access all important outputs of the research process transparently. Many journals -- over 200 in different subject areas -- have adopted a new pre-publication process called Registered Reports. Registered Reports introduces peer review of studies at the design stage so that potential problems with the study design can be improved and researchers are less likely to introduce Questionable Research Practices into their papers. 
 
+These diagrams show how the Registered Reports format differs from the traditional publishing process format:
+*(Are diagrams helpful here? If so, I'll make these myself in a different format. Couldn't find one for the traditional publication process.)*
 
-- publication of replication studies
-- guaranteed publication granted when study designs are preregistered of study  
+#### Traditional Publication 
+#### Registered Reports
+![Registered Reports Process](https://cdn.cos.io/media/images/registered_reports.width-800.png)
+Under Registered reports, when a study design passes the Stage 1 review by scientific peers, its publication in the journal is guaranteed -- whether or not it produces flashy findings!
 
 ### Example: Reforms at Psychological Science (Eric)
 
-### Example: Preregistration
 
 ## Initial Investment of Time and Money
 - cost of maintaining data in an open repository - time needed to learn about OS practices - may need to learn new technologies - much more time required in planning phases of study (but reduces time required later) 
