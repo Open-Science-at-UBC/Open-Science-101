@@ -27,14 +27,11 @@ One of the biggest obstacles in the path to Open Science comes from the difficul
 ### Strategies for Change
 Nevertheless, awareness of the advantages of Open Science practices is growing rapidly, many of these large organizations have started to introduce changes. For example, the three major Canadian research agencies -- the National Sciences and Engineering Research Council (NSERC), the Social Sciences and Humanities Research Council (SSHRC), and the Canadian Institutes of Health Research (CIHR) -- now require recipients of their research grants to provide open access to the resulting papers within a year of publication. 
 
-Another area of change is a move toward basing the promotion and tenure of scientists on factors the current evaluation system neglects, including 
+Another area of change is a move toward basing the hiring, tenure, and promotion of scientists on factors overlooked by the current evaluation system, including 
 - the quality (integrity) of the science
 - the level of openness and transparency provided by authors at all stages of the research cycle
 - the level of engagement with the stakeholders in designing and conducting studies
 - the potential impact of the research on society. 
-
-- the introduction of measures of science impact that go beyond citations, n
-achievement of tenure and promotion goals for professors/researchers, 
 
 ### Example Undergraduate Open Science Research Awards
 - idea of undergraduate research awards contingent on OS practices? could propose a fictitious scenario
