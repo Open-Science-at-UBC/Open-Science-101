@@ -15,8 +15,8 @@ We have both the technological and the imperative to open science in order to be
 On completion of Unit 5, you should be able to list and describe the following five categories of limits and challenges to Open Science and give an example of a strategy for dealing with each:
 
 - **lack of incentives for adopting OS practices**
+- **publishing industry practices**
 - **time and money required up front to become Open**
-- **intellectual property rights**
 - **privacy and intellectual property rights**
 - **lack of knowledge**
 
@@ -25,7 +25,7 @@ On completion of Unit 5, you should be able to list and describe the following f
 One of the biggest obstacles in the path to Open Science comes from the difficulty of achieving a change in the way scientists are rewarded for their work, from publication in high-status journals to progression in their careers. What are the criteria used to compensate and promote science? As we saw in Unit 2, flashy science may trump good science: journals want to publish exciting research, and the career progress of scientist is gauged by the number of times their research is quoted by others, the prestige of the journals they publish in, and how much funding they can get. Most of the organizations that employ scientists, such as universities, large research institutes, and governments, are huge beasts with complicated organizational structures, traditions, rules, and procedures; change comes to them at a glacial pace. 
 
 ### Strategies for Change
-Nevertheless, awareness of the advantages of Open Science practices is growing rapidly, many of these large organizations have started to introduce changes. For example, the three major Canadian research agencies -- the National Sciences and Engineering Research Council (NSERC), the Social Sciences and Humanities Research Council (SSHRC), and the Canadian Institutes of Health Research (CIHR) -- now require recipients of their research grants to provide open access to the resulting papers within a year of publication. 
+Nevertheless, awareness of the advantages of Open Science practices is growing rapidly, many of these large organizations have started to introduce changes. For example, the three major Canadian research agencies -- the National Sciences and Engineering Research Council (NSERC), the Social Sciences and Humanities Research Council (SSHRC), and the Canadian Institutes of Health Research (CIHR) -- now require recipients of their research grants to provide open access to the resulting papers within a year of publication.  
 
 Another area of change is a move toward basing the hiring, tenure, and promotion of scientists on factors overlooked by the current evaluation system, including 
 - the quality (integrity) of the science
@@ -33,7 +33,9 @@ Another area of change is a move toward basing the hiring, tenure, and promotion
 - the level of engagement with the stakeholders in designing and conducting studies
 - the potential impact of the research on society. 
 
-### Example Undergraduate Open Science Research Awards
+Progress in the area of revising assessment of scientists will likely prove slow, but scientists and leaders in the academic world are beginning to talk about reforming the process for assessing scientists. For example, a workshop in Washington, DC, in 2017 produced an a document identifiying six key principles to guide reforms to incentives and rewards, as well as next steps to take to transform research and policy.
+
+### Example: Undergraduate Open Science Research Awards
 - idea of undergraduate research awards contingent on OS practices? could propose a fictitious scenario
 
 ## Publishing Industry Practices
