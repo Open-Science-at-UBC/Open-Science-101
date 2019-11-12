@@ -18,7 +18,7 @@ On completion of Unit 5, you should be able to list and describe the following f
 - **time and money required up front to become Open**
 - **intellectual property rights**
 - **privacy and intellectual property rights**
-- **lack of knowledge*
+- **lack of knowledge**
 
 ## Incentives and Rewards
 ### The Current Reward System
