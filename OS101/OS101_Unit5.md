@@ -39,6 +39,9 @@ Progress in the area of revising assessment of scientists will likely prove slow
 - idea of undergraduate research awards contingent on OS practices? could propose a fictitious scenario
 
 ## Publishing Industry Practices
+Publishers of journals can make many improvements to their practices to ensure that they're publishing quality science and not merely flashy science and that their readers can access all important outputs of the research process transparently. Many journals -- over 200 in different subject areas -- have adopted a new pre-publication process called Registered Reports. 
+
+
 - publication of replication studies
 - guaranteed publication granted when study designs are preregistered of study  
 
