@@ -63,10 +63,12 @@ To close this gap in education, Open Science advocates seek to make information 
 - mentoring programs that team a researcher new to OS with one experienced with OS methods
 - courses in specific aspects of Open Science, such as those offered by the FOSTER portal (a project of the European Union)
 - https://www.fosteropenscience.eu/courses
-- change will "filter up" as new scientists bring Open Science Practices into the workplace
+
+This Canvas module serves as the first step of an OS undergraduate university education program: it's funded by a grant from the UBC Excellence fund aimed partially at making Open Science practices second nature to undergraduate student. This kind of education at the start of university, we hope, will "filter up" as future scientists graduate with a familiarity with OS!
 
 ### A Learning Curve
-- cost of maintaining data in an open repository - may not know about low-cost or free options for data storage (e.g. OSF offers unlimited storage) - time needed to learn about OS practices - may need to learn new technologies - much more time required in planning phases of study (but reduces time required later) 
+Learning a new way of conducting science involves time, and you know that old equation "time = money"! People at later stages of their careers may prove more reluctant to learn about open science, and resent the time that learning will take away from their current responsibilities. Open Science practices involve investing more time at the start of a research project in study design.
+However, such an investment pays off in increased scientific rigour and less time spent on the end of the project. OS education may also mean having to grasp new technologies, and some people, even in the sciences, feel discomfort with learning new tech. Finally, researchers may be concerned with the cost of keeping data in an open repository. Low-cost or free options may be available either through a university or through OSF, which provides **free** storage for an unlimited quantity of data.
 
 ### Example
 - example: undergraduate OS program, workshops/seminars, COS ambassadors program, tutorials/guides, books, etc. 
