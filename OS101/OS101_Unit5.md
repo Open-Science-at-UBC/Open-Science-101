@@ -40,6 +40,9 @@ Progress in the area of revising assessment of scientists will likely prove slow
 - idea of undergraduate research awards contingent on OS practices? could propose a fictitious scenario
 
 ## Publishing Industry Practices
+
+**_NB: May change this section to cover a range of publishing reforms, and have a dialogue-based example of graduate student publishing in a registered report; this is probably something students will relate to better, and would also change the order of this section from general to specific. Could cover the reforms Eric introduced at Psychological Science in the first part._**
+
 Publishers of journals can make many improvements to their practices to ensure that they're publishing quality science and not merely flashy science and that their readers can access all important outputs of the research process transparently. Many journals -- over 200 in different subject areas -- have adopted a new pre-publication process called Registered Reports. Registered Reports introduces peer review of studies at the design stage so that potential problems with the study design can be improved and researchers are less likely to introduce Questionable Research Practices into their papers. 
 
 These diagrams show how the Registered Reports format differs from the traditional publishing process format:
