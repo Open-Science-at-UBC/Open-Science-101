@@ -17,9 +17,9 @@ On completion of Unit 5, you should be able to list and describe the following f
 
 - **lack of incentives for adopting OS practices**
 - **publishing industry practices**
-- **time and money required up front to become Open**
-- **privacy and intellectual property rights**
 - **lack of knowledge**
+- **privacy and intellectual property rights**
+
 
 ## Incentives and Rewards
 ### The Current Reward System
@@ -65,12 +65,12 @@ To close this gap in education, Open Science advocates seek to make information 
 - https://www.fosteropenscience.eu/courses
 - change will "filter up" as new scientists bring Open Science Practices into the workplace
 
+### A Learning Curve
+- cost of maintaining data in an open repository - may not know about low-cost or free options for data storage (e.g. OSF offers unlimited storage) - time needed to learn about OS practices - may need to learn new technologies - much more time required in planning phases of study (but reduces time required later) 
+
 ### Example
 - example: undergraduate OS program, workshops/seminars, COS ambassadors program, tutorials/guides, books, etc. 
 - lack of knowledge about research study design, QRPs --> opportunity to inform 
-
-## Initial Investment of Time and Money
-- cost of maintaining data in an open repository - time needed to learn about OS practices - may need to learn new technologies - much more time required in planning phases of study (but reduces time required later) 
 
 ## Privacy and Intellectual Property Rights 
 - fear of being scooped - free market incentive to create in conflict with opening science - public/private partnership issues - more important in some areas of study than in others - e.g. pharmaceutical industry 
