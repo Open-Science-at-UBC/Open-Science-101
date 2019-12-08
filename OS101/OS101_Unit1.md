@@ -64,4 +64,5 @@ What did medical researcher John Ionnanidis claim about modern research findings
 
 My dad has ALS (Lou Gehrig’s disease), and I’m doing some research on the Internet, but can’t afford an article on the effectiveness of a novel treatment treatment being offered at the Mayo Clinic. This is an issue of ________.
 ☐ access
+
 ☐ trust
