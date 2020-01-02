@@ -1,145 +1,130 @@
+# **OS 101 Unit 5: Challenges and Constraints**
 
-﻿
-OS 101 Unit 5: Challenges and Constraints
+## **Unit 5 Objectives**
 
-## Unit 5 Objectives
+### **Introduction**
+If Open Science is so great, why isn't it more wide spread?
+  
+We have the technological means, and indeed a duty, to open science in order to solve problems facing our society and our world. This unit looks at the difficulties in implementing Open Science and strategies to overcome them.
 
-### Introductions
-**If Open Science is so great, why isn't it more wide spread?** <mark>If Open Science brings so many benefits to researchers, science, and society, you may wonder why OS practices aren't more widespread. Technology has radically changed the nature of scientific research by making it possible to</mark>
+### **Objectives**
 
-- <mark>create, store, process, and share huge quantities of data;
-- <mark>make computer simulations of elaborate scenarios in addition to experimentation; and **I dont' know if I understand the second part of this sentence *experimentation*.**
-- <mark>collaborate with coworkers and citizen scientists anywhere in the world.
+On completion of Unit 5, you should be able to articulate and identify a strategy for addressing each of the following hindrances to practising Open Science:
 
-*I feel like all the highlghted, while interesting, is not relevant to the question introduced, **why isn't OS more widespread?**.*
-
-We have <del>both</del> the technological and <del>the</del> <mark>imperative - *perhaps articulate the type of imperative? ie moral, social etc.*</mark> to open science in order to better address problems facing our society and our world.<del>, so what's keeping us from realizing our ideal Open Science research culture?</del> This unit looks at the difficulties in implementing Open Science and strategies that will help overcome them.
-
-### Objectives
-
-On completion of Unit 5, *you should be able to <mark>articulate (I feel like list is perhaps too simple a task)</mark> and identify a strategy for addressing each of the following hindrances to practicing Open Science.* <del>list and describe the following five categories of limits and challenges to Open Science and give an example of a strategy for dealing with each:</del>
-
-- lack of **incentives** <del>for adopting OS practices</de>
-- **publishing** <del>industry</del> practices
-- lack of **knowledge**
-- **privacy** and **intellectual property** rights
-
-*I would suggest either only bolding key terms or dropping the bold all together from the bulleted list*
-
-
+*   lack of **incentives;**
+*   **publishing** industry practices;
+*   lack of **awareness and training;** and
+*   **intellectual property** rights.
 
 ## Incentives and Rewards
 
-### The Current Reward System
-<del>One of the biggest obstacles in the path to Open Science comes from the difficulty of achieving a change in the way scientists are rewarded for their work, from publication in high-status journals to progression in their careers. What are the criteria used to compensate and promote science?</del> As we saw in Unit 2, flashy science may trump good science. <mark>The actors involved here are four: researchers, publishers, employers, and funders. Traditional researcher outputs, *the academic paper*, are coordinated by publishers, while researcher rewards, *tenure, wages, and grants*, are handled by their employers and/or funders.</mark>
+### **The Current Reward System**
+As we saw in Unit 2, flashy science may trump good science. The actors involved here are four: researchers, publishers, employers, and funders. Traditional research outputs (academic papers) are coordinated by publishers, while researcher rewards — tenure, wages, and grants — are handled by their employers and/or funders.
 
-<mark>As you'll recall,</mark> journals want to publish exciting research. <mark> You could say this is good business sense.</mark>
+As you'll recall, journals want to publish exciting research. You could say this is good business sense.
 
-<mark>Funders also want to fund research with clear, novel, and measurable outputs. They obviously want to have something to show for their investment and they have to justify *why* they funded a given project.</mark>
+Funders, as well, want their projects to achieve clear, novel, and measurable results; they obviously want to be able to justify _why_ they invested in a given project. Employers want to know that their institution is having an impact — and researcher impact figures as an extremely important measure of institutional impact.
 
-<mark>Employers want to know that their institution is having impact -- institutional impact is a measure of researcher impact.</mark>
+Researchers’ impact is gauged largely by the number of times their research is quoted by others, the prestige of the journals they publish in, and the level of funding they can get. Thus, the rewards a researcher receives depend largely on outputs of journals.
 
-<mark>Researcher impact</mark> <del>And the career progress of scientists</del> is <mark>largely</mark> gauged by the number of times their research is quoted by others, the prestige of the journals they publish in, and how much funding they can get. <mark>That is, metrics largely associated with the outputs of journals.</mark><del>Most of the organizations that employ scientists, such as universities, large research institutes, and governments, are huge beasts with complicated organizational structures, traditions, rules, and procedures; change comes to them at a glacial pace.</del> *I like this, but I think it should go elsewhere - it's not earmarking the current reward system, it's highlighting why it's hard to change.*
+You can see we have a bit of tangled web here. Researchers may want to change their practices, but if such changes negatively affect whether and where they're published, they'll fall out of favour with their employers and funders. At the same time, funders and employers struggle to find other ways to _measure_ research impact to coordinate funding and to demonstrate value.
 
-<mark>You can see we have a bit of tangled web here. Researchers may want to change their practices, but if this is going to adversely impact how they're published, it's going to have cascading effects that are not in their favour with their employers and funders. At the same time, funders and employers struggle with how else to *measure* research impact to coordinate funding and to demonstrate value.</mark>
+### **Strategies for Change**
 
-### Strategies for Change
+Strategies for change centre on how _value_ and _impact_ are interpreted and understood in the context of research. And many large organizations representing researchers, publishers, employers, and funders have started to change the way in which they evaluate these factors.
 
-<mark>Strategies for change very much centre on how *value* and *impact* are interpreted and understood in the context of research. And many large organizations representing researcehrs, publishers, employers, and funders, have started to re-evaluate what is valuable and what impacts warrant merit.</mark>
+A few key developments have sparked and motivated some of these shifts.
 
-<mark>There have been a few key moments that have sparked and motivated soem of these shifts.</mark>
+#### **Metrics for Assessment**
 
-#### Metrics for assessment
+In 2012, at the Annual Meeting of the American Society for Cell Biology in San Francisco, the Declaration on Research Assessment (DORA) was produced. DORA is a call on all parties invovled in the research process to critically re-evaluate how research is assessed for merit. It has since turned into a worldwide initiative with thousands of individual and organizational supporters. [You can read more about DORA here.](https://sfdora.org/)
 
-<mark>In 2012, at the Annual Meeting of the American Society for Cell Biology in San Francisco, the Declaration on Research Assessment (DORA) was produced. DORA is a call on all parties invovled in the research process to critically re-evaluate how research is assessed for merit. It has since turned into a worldwide initiative with thousands of individual and organizational supporters. [You can read more about DORA here.](https://sfdora.org/)</mark>
+#### **Funder Requirements**
 
-#### Funder requirements
+Since 2015, the three major Canadian research agencies -- the National Sciences and Engineering Research Council (NSERC), the Social Sciences and Humanities Research Council (SSHRC), and the Canadian Institutes of Health Research (CIHR) -- have required that recipients of their research grants provide open access to the resulting papers within a year of publication. These same agencies are currently working on a similar policy for research data.[ You can read more about the Tri-Agencies Open Access Policy here.](https://scholcomm.ubc.ca/open-access/tri-agency-open-access-policy/)
 
-<mark>Since 2015 *it goes back earlier, but I think this is when it became official for all three* the three major Canadian funders</mark> <del>Nevertheless, awareness of the advantages of Open Science practices is growing rapidly, many of these large organizations have started to introduce changes. For example, the three major Canadian research agencies</del> -- the National Sciences and Engineering Research Council (NSERC), the Social Sciences and Humanities Research Council (SSHRC), and the Canadian Institutes of Health Research (CIHR) -- <del>now require</del> <mark>have required that</mark> recipients of their research grants to provide open access <del>to</del> the resulting papers within a year of publication. <mark>These same agencies are currently working on a similar policy for research data. These efforts have been mirrored by other federal and private granting agencies across the world. [You can read more about the Tri-Agencies Open Access Policy here.](https://www.science.gc.ca/eic/site/063.nsf/eng/h_F6765465.html)</mark>  
+#### **Journal Reforms**
 
-#### Journal efforts
+In 2014, the journal _Psychological Science_ broke new ground by awarding badges to papers based on the level of openness demonstrated in them — an incentive for authors to adopt open practices. Badges were awarded for three types of OS practices: open data, open materials, and preregistration (filing their research design with the journal at the earliest stage of the study). These badges would then be added as images to the paper. Before badges were introduced, less than 3% of papers in _Psychological Science_ reported that their data was open. By mid 2015, this percentage had grown by a factor of 13 to 39% (Kidwell et al., 2016)!
 
-<mark>In 2014, the journal *Psychological Science* broke new ground by giving authors the opportunity to signal how open their practices were. The journal would post a badge to papers showing readers if the the data and materials used to support the publication were open. Before badges were introduced less than 3% of papers in *Psychological Science* reported that their data was open. By mid 2015, this number had risen to 39%.</mark> * Kidwell, M. C., Lazarević, L. B., Baranski, E., Hardwicke, T. E., Piechowski, S., Falkenberg, L.-S., … Nosek, B. A. (2016). Badges to Acknowledge Open Practices: A Simple, Low-Cost, Effective Method for Increasing Transparency. PLOS Biology, 14(5), e1002456. https://doi.org/10.1371/journal.pbio.1002456
+#### **References**
+
+Kidwell, M. C., Lazarević, L. B., Baranski, E., Hardwicke, T. E., Piechowski, S., Falkenberg, L.-S., … Nosek, B. A. (2016). Badges to Acknowledge Open Practices: A Simple, Low-Cost, Effective Method for Increasing Transparency. PLOS Biology, 14(5), e1002456. [https://doi.org/10.1371/journal.pbio.1002456](https://doi.org/10.1371/journal.pbio.1002456)
 
 
-<del>Another area of change is a move toward basing the hiring, tenure, and promotion of scientists on factors overlooked by the current evaluation system, including</del>
-- <del>the quality (integrity) of the science
-- <del>the level of openness and transparency provided by authors at all stages of the research cycle
-- <del>the level of engagement with the stakeholders in designing and conducting studies
-- <del>the potential impact of the research on society.
+## **Publishing Industry Practices**
 
-<del>Progress in the area of revising assessment of scientists will likely prove slow, but scientists and leaders in the academic world are beginning to talk about reforming the process for assessing scientists. For example, a workshop in Washington, DC, in 2017 produced an a document identifying six key principles to guide reforms to incentives and rewards, as well as next steps to take to transform research and policy.
+Publishers of journals can do a lot to support more robust science and to encourage a culture of Open among researchers. As we saw, _Psychological Science_ found a simple, effective way for researchers to communicate how open they are.
 
-<del>### Example: Undergraduate Open Science Research Awards
-- <del>idea of undergraduate research awards contingent on OS practices? could propose a fictitious scenario</del>
+As you might recall from Unit 2, one of the issues researchers face for getting published, is the need for their results to be positive. To combat this, and to encourage really good science, a handful of journals have started to support a new publishing model called Registered Reports.
 
-<mark>### Activity
+In a traditional paper, peer review happens when a paper is submitted to the journal for publication: that is, _after_ the research has been done. This process encourages researchers to revisit their findings and try to find positive results where they couldn't before. This phenomenon is commonly known as p-hacking. We'll take a closer look at what p-hacking is in later modules.
 
-<mark>Take a few minutes and further explore one of the examples above.</mark>
+In Registered Reports, researchers submit their planned research project to a journal and _the plan is reviewed_. If the plan is accepted, the journal guarantees that they will publish the article, whether the findings are positive or not! Peer review of the manuscript still occurs. But now, the _guarantee_ of publication — regardless of the study’s outcome — frees authors to focus on doing the best possible research.
 
-## Publishing Industry Practices
+[You can read more about Registered Reports and see what the process looks like here.](https://cos.io/rr/)
 
-**_NB: May change this section to cover a range of publishing reforms, and have a dialogue-based example of graduate student publishing in a registered report; this is probably something students will relate to better, and would also change the order of this section from general to specific. Could cover the reforms Eric introduced at Psychological Science in the first part._**
 
-Publishers of journals can <mark>do a lot to support more robust science and to encourage a culture of open amongst researchers. As we saw, *Psychological Science* provided a way for researchers to communicate how open they were in a simple, effective way. </mark>
+## **Lack of Awareness and Training**
 
-<mark>As yo might recall from unit #?, one of the issues researchers face for getting published, is the need for their results to be positive. To combat this, and to encourage really good science, a handful of journals have started to support a new publishing model called Registered Reports.</mark>
+Most researchers today haven't been trained in Open Science practices. They would likely agree philosophically with opening science, but may not know where to start in terms of modifying their practices. And those in later stages of their career may think that change is too difficult, even if their graduate students try to engage them in talking about Open Science.
 
-<mark>In a traditional paper, peer review happens when a paper is submitted to the journal for publication. That is, *after* the research has been done. This process encourages researchers to revisit their findings and try to find positive results where they couldn't before. This phenomenon is commonly known as p-hacking. We'll look at exactly what p-hacking is in later modules.</mark>
+### **A Learning Curve**
 
-<mark>In Registered Reports, researchers submit their planned research project to a journal and *the plan is reviewed*. If the plan is accepted, the journal guarantees that they will publish the article, whether the findings are positive or not! Peer review of the manuscript still occurs. But now the researcher is less concerned with finding positive results then they are about doing the best possible research, because their publication is guaranteed.</mark>
+Learning a new way of conducting science involves time and effort.
 
-<mark>[You can read more about Registered Reports and see what the process looks like here.](https://cos.io/rr/)</mark>
+Depending on where you are in your career, this time and effort is more or less valuable and easier or harder to come by. For example, longtime researchers may struggle with time that learning will take away from their current responsibilities that have grown over the years, including managing students, administrative tasks, applying for grants, teaching etc.
 
-*I'm undecided about the diagram.*
+The fact is, Open Science practices involve investing more time at the start of a research project, because they require you to think through the entire project, map out what you're going to do, and to try to foresee where errors could happen so you can prevent them or soften their blows. However, the investment pays off in increased scientific rigour and less time spent on the end of the project.
 
-### Activity
-<mark>Brainstorm 3 other ways in which journals could encourage better and more open research.</mark>
+Embracing Open Science education may also mean having to grasp new technologies, and some people, even in the sciences, feel discomfort with learning new tech.
 
-<del>make many improvements to their practices to ensure that they're publishing quality science and not merely flashy science and that their readers can access all important outputs of the research process transparently. Many journals -- over 200 in different subject areas -- have adopted a new pre-publication process called Registered Reports. Registered Reports introduces peer review of studies at the design stage so that potential problems with the study design can be improved and researchers are less likely to introduce Questionable Research Practices into their papers.
+Finally, researchers may be concerned with the costs potentially associated with Open Science, from fees for keeping data in an open repository to time required to learn OS practices.  Low-cost or free options for data storage may be available through a universities or other organizations.
 
-<del>These diagrams show how the Registered Reports format differs from the traditional publishing process format:
-*(Are diagrams helpful here? If so, I'll make these myself in a different format. Couldn't find one for the traditional publication process.)*
+### **Advocating for Open**
 
-<del>#### Traditional Publication
-<del>#### Registered Reports
-![Registered Reports Process](https://cdn.cos.io/media/images/registered_reports.width-800.png)
-<del>Under Registered reports, when a study design passes the Stage 1 review by scientific peers, its publication in the journal is guaranteed -- <del>whether or not it produces flashy findings!
+To help researchers clear the learning curve, Open Science advocates seek to make information about Open Science benefits, tools, and practices available to researchers at all levels. Initiatives include the following:
 
-### Example: Reforms at Psychological Science (Eric)
+*   free, easy-to-use tools that don't require coding, like the Open Science Framework (OSF), a project management and networking site that allows researchers to display and interact with all products of their research;
+*   free storage for researchers, whether through third parties like[ OSF](https://osf.io/) or[ Zenodo](https://zenodo.org/), or through their institution. At UBC, we have[ cIRcle](https://circle.ubc.ca/) for publications and[ Dataverse](https://dataverse.scholarsportal.info/dataverse/ubc) for data;
+*   OS education programs (including this one) at universities aimed at undergraduates, graduates, and early career researchers;
+*   mentoring programs that team a researcher experienced with OS methods with colleagues new to OS; and
+*   courses in specific aspects of Open Science, such as those offered by the[ FOSTER portal (a project of the European Union).](https://www.fosteropenscience.eu/courses)
 
-## Lack of Knowledge
-Most researchers <del>today haven't been trained in Open Science practices. They may</del><mark>would likely</mark> agree philosophically with opening science, but may not know where to start in terms of modifying their practices. <mark>And</mark> those in later stages of their career may think that change is too difficult, even if their graduate students try to engage them in talking about Open Science.
+## **Intellectual Property Rights**
 
-### A Learning Curve
-Learning a new way of conducting science involves time <mark>and effort</mark>.<del>, and you know that old equation "time = money"!</del>
+### **Introduction**
 
-<mark>Depending on where you are in your career, this time and effort is more or less valuable and easier or harder to come by. For example, </mark>people at later stages of their careers may <mark>struggle with</mark> <del>prove more reluctant to learn about open science, and resent</del> the time that learning will take away from their current responsibilities <mark>that have grown over the years, including managing students, applying for grants, teaching etc</mark>.
+Our economy and legal system have long recognized the rights of creators of ideas, methods, products, etc. to own the products of their creation. These rights provide a strong incentive for research and innovation, both for individual creators and for society through the production of new knowledge, goods, and services.
 
-<mark>The fact is, Open Science practices involve investing more time at the start of a research project, because they require you to think through the entire project, map out what you're going to do, and to try and account for potential areas of error before they happen.</mark> However, such an investment pays off in increased scientific rigour and less time spent on the end of the project.
+However, as we know, Open Science also provides strong stimulation to the economy by improving the quality of science and industrial products and services, and making scientific knowledge broadly available to creators or potential creators.
 
-Embracing Open Science <del>education</del> may also mean having to grasp new technologies, and some people, even in the sciences, feel discomfort with learning new tech.
+So, intellectual property rights and Open Science exist together in a tense but interdependent relationship; policy makers and all of the actors in the culture of science must work to strike a balance between these two concepts.
 
-Finally, researchers may be concerned with <mark>all</mark> the costs <mark>potentially associated with Open Science, whether that be</mark> <del>of</del> keeping data in an open repository <mark>or fear of the old adage time = money!</mark><del>. Low-cost or free options may be available either through a university or through OSF, which provides **free** storage for an unlimited quantity of data.</del>
+#### **A Public-Private Partnership, the Structural Genomics Consortium (SGC)**
 
-### Advocating for Open
-To <mark>help alleviate aspects of this learning curve</mark><del> close this gap in education</del>, Open Science advocates seek to make information about Open Science benefits, tools, and practices available to researchers at all levels. Initiatives include
+The Structural Genomics Consortium accelerates research into human biology and drugs through a multi-country network that includes hundreds of university labs. The SGC makes its research outputs available free of charge, but its funding comes from private companies, including two giant pharmaceutical corporations, Bayer (German) and Pfizer (American). What’s more, it focuses on “neglected” diseases -- those linked with areas of the human genome that have not yet been well studied. Canadian nodes in the SGC include the Montreal Neurological Institute (“The Neuro”, a brain research centre) and the University of Toronto.
 
-- free<mark>, easy to use</mark> tools<mark>that don't require coding</mark> like the Open Science Framework, a project management and networking site that allows researchers to display and interact with all products of their research
-- <mark>free storage for researchers, whether through third parties like [OSF](https://osf.io) or [Zenodo](https://zenodo.org/), or through one's institution. At UBC, we have [cIRcle](https://circle.ubc.ca/) for publications, and [Dataverse](https://dataverse.scholarsportal.info/dataverse/ubc) for data.</mark>
-- OS education programs (including this one) at universities aimed at undergraduates, graduates, and early career researchers
-- mentoring programs that team a researcher new to OS with one experienced with OS methods <mark>*Do you have an example?*</mark>
-- courses in specific aspects of Open Science, such as those offered by the [FOSTER portal (a project of the European Union)](https://www.fosteropenscience.eu/courses)
 
-This Canvas module serves as the first step of an OS undergraduate university education program: it's funded by a grant from the UBC Excellence fund aimed partially at making Open Science practices second nature to undergraduate student. This kind of education at the start of university, we hope, will "filter up" as future scientists graduate with a familiarity with OS! <mark>I can't decide if this is needed!</mark>
+## **Unit 5 Recap**
 
-### Example <mark>I don't know if we need an example here</mark>
-- example: undergraduate OS program, workshops/seminars, COS ambassadors program, tutorials/guides, books, etc.
-- lack of knowledge about research study design, QRPs --> opportunity to inform
+[This five-minute video ](https://montreal.ctvnews.ca/montreal-s-neuro-and-ai-community-at-heart-of-world-open-science-movement-1.3568039)introduces Open Science changes happening at McGill University’s Montreal Neurological Institute and Hospital (aka The Neuro). Dr. Guy Rouleau, the Neuro’s director, discusses the difficulties involved in convincing researchers to adopt OS practices and the strategies used to achieve consensus on the decision to change the Neuro’s practices. (Video format is not supported by Canvas.)
 
-## Privacy and Intellectual Property Rights
-**_Take a look at this short video about The Neuro here. https://montreal.ctvnews.ca/montreal-s-neuro-and-ai-community-at-heart-of-world-open-science-movement-1.3568039. The video is about 5 minutes -- could possibly just embed the whole thing or could upload a much shorter clip covering specific comments about IP. Not sure how long the link would be valid. The article itself is also interesting, especially the controversy about scientists continuing to publish "in expensive -- and exclusive -- commercial journals, a practice that reflects part of the academic culture that is slow to change."_**
 
-- fear of being scooped - free market incentive to create in conflict with opening science - public/private partnership issues - more important in some areas of study than in others - e.g. pharmaceutical industry
-- a balance is needed between creating incentives for individuals or groups to exploit new scientific knowledge for financial gain and societal benefits through the products and services that are developed and the macroeconomic benefits that accrue when knowledge is broadly available and can be exploited creatively in a wide variety of ways.
-- confidentiality of data (e.g. patient names, demographic information) - solution: anonymization of data - ensure security requirements for privacy of data are met (not all obstacles can be overcome)-
+## **Unit 5 Quiz**
+
+### **Question 1 (1 pt)**
+
+Activity: This unit discusses a new publishing format, Registered Reports, that advances Open Science. Brainstorm 2 other ways in which journals could encourage better and more open research, and record your answers in the text input field below.
+
+### **Question 2 (1 pt)**
+
+This question is based on the short (five-minute) video about The Neuro (the Montreal Neurological Institute) in the final section of this Unit content (Unit 5 Recap). Which of the following was _not_ used by The Neuro to win the scientific community over to the idea of switching to Open Science? Choose all that apply.
+
+☐     	Focus groups
+
+☐     	Surveys
+
+☐     	Financial bonuses for adopting open science practices.
+
+☐     	Lectures
